@@ -6,5 +6,5 @@ Usage:
 flir2raw.R <FLIR jpg path>
 ```
 ```shell
-flir2raw_batch.sh <path to directory with FLIR jpgs. Does not do recursion>
+flir2raw_batch.sh <path to directory with FLIR jpgs>
 ```
